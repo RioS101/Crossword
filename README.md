@@ -1,4 +1,5 @@
 # Crossword
+    This game was created only for educational purposes.
 
 ## Description:
 Simple crossword for 2 players.  <br/>
